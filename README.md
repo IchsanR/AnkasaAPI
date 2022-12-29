@@ -6,7 +6,7 @@
     <image align="center" width="400" src='./assets/ankasa_logo.png' />
   </p>
   <p align="center">
-    <a href="https://ankasa-nightlabs.cyclic.app">View API Demo</a>
+    <a href="https://ankasa-nightlabs.vercel.app/">View Demo</a>
   </p>
 </p>
 
@@ -81,7 +81,7 @@ This is an example of things you need to use the application and how to install 
 
 1. Clone the repo
 ```sh
-git clone https://github.com/reijiren/AnkasaAPI.git
+git clone https://github.com/IchsanR/AnkasaAPI.git
 ```
 2. Install NPM packages
 ```sh
@@ -120,7 +120,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- RELATED PROJECT -->
 ## Related Project
 This API is used in [Ankasa Ticketing Application](https://ankasa-nightlabs.vercel.app).
-* [View Documentation](https://github.com/reijiren/AnkasaAPP)
+* [View Documentation](https://github.com/IchsanR/AnkasaAPP)
 
 <!-- CONTACT -->
 ## Contact
